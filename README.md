@@ -60,7 +60,7 @@
 - Session Memory → ChatMessageHistory keeps per-session conversations.
 
 ## 🖥️ Demo
-- ![App Screenshot](./images/demo.png)
+- ![App Screenshot](/Users/pahul17/Documents/End-End-Projects/4 - RAG Q&A With chat History/images/demo.png)
 
 ## ⚡ Future Enhancements
 
