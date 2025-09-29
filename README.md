@@ -60,7 +60,7 @@
 - Session Memory → ChatMessageHistory keeps per-session conversations.
 
 ## 🖥️ Demo
-
+- ![App Screenshot](./images/demo.png)
 
 ## ⚡ Future Enhancements
 
@@ -70,7 +70,7 @@
 - Deploy on Streamlit Cloud / Hugging Face Spaces.
 
 
-### 💡 Tips to Customize
+## 💡 Tips to Customize
 - Replace `Conversational RAG PDF Chatbot` with your final repo name.  
 - Add a **demo GIF** or Streamlit app link if you deploy it.  
 - Update the **Future Enhancements** list with your personal roadmap.  
