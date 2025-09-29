@@ -2,6 +2,12 @@
 *A Streamlit app that lets you upload PDFs and chat with them using a Retrieval-Augmented Generation (RAG) pipeline — with full chat history memory.*
 
 
+
+## 🖥️ Demo
+- ![App Screenshot](/images/demo.png)
+
+
+
 ## ✨ Features
 
 - 📄 **Upload Multiple PDFs** – Ask questions across one or more documents at once.
@@ -59,8 +65,7 @@
 - LLM Answering → Sends retrieved context + question to Groq’s llama-3.3-70b-versatile.
 - Session Memory → ChatMessageHistory keeps per-session conversations.
 
-## 🖥️ Demo
-- ![App Screenshot](/images/demo.png)
+
 
 ## ⚡ Future Enhancements
 
