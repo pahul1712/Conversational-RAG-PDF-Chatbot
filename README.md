@@ -2,7 +2,6 @@
 *A Streamlit app that lets you upload PDFs and chat with them using a Retrieval-Augmented Generation (RAG) pipeline — with full chat history memory.*
 
 
-
 ## 🖥️ Demo
 - ![App Screenshot](/images/demo.png)
 
